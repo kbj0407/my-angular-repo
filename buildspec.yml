@@ -19,4 +19,4 @@ artifacts:
   files:
     - 'dist/my-angluar-project/**/*'
     - appspec.yaml
-    - 'deploy-script/**/*'
+    - 'deploy-scripts/**/*'
